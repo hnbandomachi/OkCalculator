@@ -2,7 +2,6 @@
 
 void main()
 {
-
         char key = '\0';
         key5_init();                // Khoi tao keypad
         Lcd_Init();                // Khoi tao LCD
@@ -68,7 +67,3 @@ void main()
                 
         }
 }
-
-
-// Commit 1
-// Commit 2
