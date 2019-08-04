@@ -1,5 +1,6 @@
 #include "LIB.h"
 // Hello
+// Hello 2
 
 void main()
 {
